@@ -16,10 +16,6 @@ We tackled a regression problem here, trying to predict the score of a review fr
 
 ## Summary 
 
-1. We write code to train and evaluate models using both the two-way holdout method, and an evaluation approach appropriate for models with hyperparameters that uses k-fold cross validation plus a test set.
-2. Optimized a machine learning model. We use gradient descent to optimize a logistic regression model.
-3. Additionally, we Perform optimization with a different algorithm (Newton-Raphson)
-
-
-
-
+1.We write code to train and evaluate models using both the two-way holdout method, and an evaluation approach appropriate for models with hyperparameters that uses k-fold cross validation plus a test set.
+2.Optimized a machine learning model. We use gradient descent to optimize a logistic regression model.
+3.Additionally, we Perform optimization with a different algorithm (Newton-Raphson)
